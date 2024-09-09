@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mandala Pham"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Austin, Texas"
   employer         : "The University of Texas at Austin"
