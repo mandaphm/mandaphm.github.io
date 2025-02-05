@@ -105,23 +105,87 @@ redirect_from:
 **Carnegie Mellon University** – *Pittsburgh, PA*  
 *May 2024 – August 2024*  
 - Supervisor: Dr. David Rounce
+- Ran model simulations using PyGEM-EB, an energy balance model developed by PhD student Claire Wilson based on Dr. Rounce’s PyGEM framework
+- Perturbed input datasets by modifying temperature profiles for Gulkana Glacier to analyze sensitivity to extreme warming events
+- Created synthetic heatwaves as model inputs to observe energy balance responses and their impact on glacier mass balance over a melt season
+- Compared model outputs to assess how heatwaves affect glacier surface energy fluxes and seasonal melt patterns
+- Designed a research poster and presented findings at Carnegie Mellon’s CEE Summer Research Program poster session
+- Published an abstract to AGU 2024 (Abstract ID: 1602284)
 
 ### **Undergraduate Research Assistant**  
 **The University of Texas at Austin** – *Austin, TX*  
 *June 2023 – May 2024*  
 - Supervisor: Dr. Derek Haas
+- Assisted grad student Madi Brooks in the chemistry and nuclear radiation lab on the Neutron Activation Analysis (NAA) project, part of the MSRR Material Activation Experiment
+- Irradiated shielding materials to induce radioactive decay and observe the radionuclides produced
+- Quantified radiation activity to assess the environmental impact of activated materials
+- Evaluated whether radiation levels complied with Nuclear Regulatory Commission (NRC) safety standards as outlined in 10 CFR Part 20 – Standards for Protection Against Radiation
 
 ### **Undergraduate Research Assistant**  
 **The University of Texas at Austin** – *Austin, TX*  
 *June 2022 – May 2023*  
 - Supervisor: Dr. Jay Banner
-- 
+- Conducted field sampling and hydrogeologic surveying in Austin-area watersheds to assess urban impacts and watershed health
+- Monitored calcite growth patterns and sampled dripwater in Central Texas caves, analyzing speleothem formation and water chemistry
+- Performed strontium isotope chemistry in a clean lab to trace hydrogeochemical processes in karst systems
+- Inventoried field records and sampling data from 1994 to present, organizing physical samples, field notebooks, and an Access database for archival purposes
+- Photographed and indexed speleothems from local caves to document calcite deposition patterns
+- Conducted ICP-MS analysis on dripwater samples, measuring cations, anions, hydrogen isotopes, oxygen isotopes, and alkalinity
+- Titrated and aliquoted collected water samples prior to chemical analysis
+- Scraped calcite plates deployed over 4-6 week intervals to run strontium isotope analysis, creating an isotopic map of deposition patterns
+- Prepared and dried soil samples for geochemical analysis
+- Performed acid and non-acid cleaning of lab equipment, including glassware, Teflon containers, syringes, pipettes, and filters
+- Created Excel graphs based on past geochemical data for project proposals and presentations
+- Participated in fieldwork at Westcave, Inner Space Cavern, Cave Without a Name, and Natural Bridge Caverns, sampling dripwater, monitoring karst hydrology, and studying calcite precipitation
+- Sampled major Austin-area streams (Bull Creek, Onion Creek, and Waller Creek) to analyze chemical and microbial water quality, including microbial source tracking
+- Studied correlations between dripwater chemistry and prior calcite precipitation (PCP) in Cave Without a Name samples
 
-### **Internship Title**  
-**Company Name** – *Location*  
-*Month Year – Month Year*  
-- Description of responsibility or achievement.
-- Another bullet point with details.
+### **Creative Development Intern**  
+**The Hideaway Entertainment** – *Beverly Hills, CA*  
+*September 2022 – December 2022*  
+- Supervisor: Sedona Rose Saulnier
+- Provided detailed script coverage and analysis for four feature screenplays or novels per week, evaluating story structure, character development, and marketability
+- Attended weekly intern meetings discussing film industry mechanisms, career development, and market trends
+- Conducted weekly research on industry trade articles to stay updated on trends in film production, distribution, and emerging talent
+- Maintained an average script coverage time of 2.5 hours per feature, ensuring concise, insightful, and actionable feedback for development executives
+
+### **Shift Supervisor**  
+**Starbucks** – *Austin, TX*  
+*August 2020 – August 2022*  
+- Supervisor: Elise Loomis
+- Led and coordinated daily shifts, ensuring smooth operations and team efficiency
+- Trained and mentored three new hires, fostering a productive and customer-focused work environment
+- Maintained high customer satisfaction despite staffing shortages, keeping customer connection scores in the high 50s
+- Managed store revenue averaging \$10,000 per day, ranking as the top-performing store in the district
+- Handled money management and inventory accountability, ensuring financial accuracy and stock efficiency
+- Effectively communicated with fellow supervisors to ensure seamless shift transitions
+- Filed incident reports and managed high-stress situations calmly and professionally to maintain store safety and service standards
+
+---
+
+## **Field Work**
+### **San Salvador Island, Bahamas**
+**The University of Texas at Austin**
+*February 24, 2024 -- March 1, 2024*
+- Tracked dune to foreshore transitions and upper-shoreface to foreshore transitions with in-situ GPS measurements to track sea level elevation during the last interglacial maximum
+- Piloted a drone to photograph various outcrops around the island
+- Identified characteristics of various units pertaining to the LIG time-period utilizing geologic reasoning and stratigraphic methods
+
+### **Yukon-Kuskokwim Delta, Alaska**
+**Woodwell Climate Research Center**
+*July 1, 2023 -- July 31, 2023*
+- Conducted intensive field work researching the effect of climate change on tundra ecosystems focusing on mycologic biodiversity in areas affected by wildfires via field surveys and in-lab analyses
+- AGU2023 poster and abstract presentation (Abstract ID: 1297586)
+
+### **Port Aransas, Texas**
+**The University of Texas at Austin**
+*May 2, 2023 -- May 31, 2023*
+- Deployed and recorded seismic data via CHIRP and Sparker instruments as well as multibeam and side scan instruments
+- Processed data from CHIRP and Sparker seismic surveys to evaluate river channel history
+- Cleaned up and visualized multibeam and backscatter data using EIVA program for the first time
+- Collected grab samples and vibra-core samples for later lab analysis to determine total organic carbon composition for reconstruction of past extreme weather events in the area
+
+
 
 ---
 
