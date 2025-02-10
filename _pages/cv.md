@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# **CV**  
+# **Mandala Pham**  
 **Email:** mandaphm@gmail.com | **Phone:** (512) 998-5950 | **GitHub:** [github.com/mandaphm](https://github.com/mandaphm) | **LinkedIn:** [linkedin.com/in/mandaphm](https://linkedin.com/in/mandaphm)
 
 ---
