@@ -11,11 +11,9 @@ Hello! Welcome to my personal website which will act as my portfolio. This websi
 
 About Me
 ======
-My name is Mandala Pham, and at the time of me updating this website for the first time (18 September 2024), I am a senior undergraduate student at the University of Texas at Austin double majoring in geophysics and history. My primary major is in geophysics under the Jackson School of Geosciences. I will graduate with my Bachelors of Science and Bachelors of Arts in May of 2025.
+I am a Ph.D. student at Georgia Institute of Technology working in Dr. Winnie Chu's Polar Geophysical Simulation Lab [(PGSL)](https://glacier-geophys.eas.gatech.edu/). I hold a Bachelors of Science in Geological Sciences and a Bachlors of Arts in History from the University of Texas at Austin, from which I graduated in 2025. I previously worked at the UT Institute for Geophysics (UTIG) under Dr. Ginny Catania in her [Ice Dynamics Lab](http://www.catania-ice.org). My work focuses on analyzing Radar Echo Sounding (RES) data to study Antarctic subglacial lakes and subglacial hydrology so that we might better understand their impacts on glacier dynamics.
 
-In between my status as a full-time student, I also work part-time at the UT Institute for Geophysics (UTIG) under Dr. Ginny Catania in her [Ice Dynamics Lab](http://www.catania-ice.org/ginny). My academic and career interests lie in the realm of glaciology with a particular focus on glacial modeling and subglacial processes.
-
-Aside from scholastic and work obligations, I enjoy [screenwriting](https://writers.coverfly.com/profile/writer-cb6f784be-29543) and [content creation](https://www.twitch.tv/chimandatv). I am also passionate about environmental justice and am the founder of UT's Collaboration for Undoing Racism in Environmental Sciences, or [CURES](https://curesut.carrd.co/), student organization. In my spare time, I can be found learning a new language, reading up on the history of nuclear disasters, or collecting rock specimens that appeal to my whimsy (and that I think would look funky on my bookshelf).
+Outside of my work, I enjoy incorporating my interests into [content creation](https://www.youtube.com/@chimandatv). I am also passionate about environmental justice and am the founder of UT's Collaboration for Undoing Racism in Environmental Sciences [(CURES)](https://curesut.carrd.co/), student organization. In my spare time, I can be found learning a new language, reading up on the history of nuclear disasters, or collecting rock specimens that appeal to my whimsy (and that I think would look funky on my bookshelf).
 
 <!---
 Getting started
