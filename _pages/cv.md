@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can [download my CV here](mandaphm.github.io/files/Pham_CV.pdf)!
+You can [download my CV here](https://github.com/mandaphm/mandaphm.github.io/blob/master/files/Pham_CV.pdf)!
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" style="width:100%; height:100%;">
@@ -17,6 +17,6 @@ You can [download my CV here](mandaphm.github.io/files/Pham_CV.pdf)!
   <title>Mandala's Resume</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= mandaphm.github.io/files/Pham_CV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <iframe src="https://docs.google.com/gview?url= https://github.com/mandaphm/mandaphm.github.io/blob/master/files/Pham_CV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
