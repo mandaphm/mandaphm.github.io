@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+body {
+  background-image: url('/images/glitter.jpg');
+  background-size: cover;        /* fills the viewport */
+  background-attachment: fixed;  /* parallax-style: image stays put while scrolling */
+  background-position: center center;
+  background-repeat: no-repeat;
+}
