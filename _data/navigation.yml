@@ -11,6 +11,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Current Research"
+    url: /current-research/
+
+  - title: "Previous Work"
+    url: /previous-work/
+
   - title: "Field Work"
     url: /field-work/
 
