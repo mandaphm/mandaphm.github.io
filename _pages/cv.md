@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can [download my CV here](/files/Pham_CV.pdf)!
+You can [download my CV here](/files/Full_CV_2026.pdf)!
 
-<embed src="https://mandaphm.github.io/files/Pham_CV.pdf" type="application/pdf" />
+<embed src="https://mandaphm.github.io/files/Full_CV_2026.pdf" type="application/pdf" />
