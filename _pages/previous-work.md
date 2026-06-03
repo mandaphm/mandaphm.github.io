@@ -3,8 +3,6 @@ layout: archive
 title: "Previous Work"
 permalink: /previous-work/
 author_profile: true
-redirect_from: 
-  - /previous-work.html
 ---
 
 {% include base_path %}
