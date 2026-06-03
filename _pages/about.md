@@ -11,6 +11,7 @@ I am a Ph.D. student at Georgia Institute of Technology working in Dr. Winnie Ch
 
 Outside of my work, I enjoy incorporating my interests into [content creation](https://www.youtube.com/@chimandatv). I am also passionate about environmental justice and am the founder of UT's Collaboration for Undoing Racism in Environmental Sciences [(CURES)](https://curesut.carrd.co/), student organization. In my spare time, I can be found learning a new language, reading up on the history of nuclear disasters, or collecting rock specimens that appeal to my whimsy (and that I think would look funky on my bookshelf).
 
+![](/images/bahama-mama.jpg)
 <!---
 Getting started
 ======
