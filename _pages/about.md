@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<marquee behavior="scroll" direction="left" scrollamount="5">If you're reading this, hello! You should hire me, Mandala Pham, the most hireable person in the world! Pick me! Choose me!</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="5">Hello, so lovely to meet you! I hope you find yourself something interesting here on my academic website!</marquee>
 
 I am a Ph.D. student at Georgia Institute of Technology working in Dr. Winnie Chu's Polar Geophysical Simulation Lab [(PGSL)](https://glacier-geophys.eas.gatech.edu/). I hold a Bachelors of Science in Geological Sciences and a Bachlors of Arts in History from the University of Texas at Austin, from which I graduated in 2025. I previously worked at the UT Institute for Geophysics (UTIG) under Dr. Ginny Catania in her [Ice Dynamics Lab](http://www.catania-ice.org). My work focuses on analyzing Radar Echo Sounding (RES) data to study Antarctic subglacial lakes and subglacial hydrology so that we might better understand their impacts on glacier dynamics.
 
