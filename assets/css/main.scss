@@ -47,3 +47,21 @@ body {
   background-position: center center;
   background-repeat: no-repeat;
 }
+
+.sidebar {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 12px;
+  padding: 1em;
+}
+
+#main {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 12px;
+  padding: 1.5em;
+}
+
+.page__content,
+.archive,
+.page {
+  background-color: transparent;
+}
