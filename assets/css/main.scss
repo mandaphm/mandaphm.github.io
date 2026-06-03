@@ -40,10 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+---
+
+@import "main";
+
 body {
   background-image: url('/images/glitter.jpg');
-  background-size: cover;        /* fills the viewport */
-  background-attachment: fixed;  /* parallax-style: image stays put while scrolling */
+  background-size: cover;
+  background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
 }
